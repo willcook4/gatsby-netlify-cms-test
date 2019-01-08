@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About our values
 ---
-![]()
+![Ground Coffee](/img/products-grid3.jpg)
 
 ### Shade-grown coffee
 
